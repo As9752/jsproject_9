@@ -1,0 +1,32 @@
+body{
+	background-color: rgb(112,56,217);
+}
+.box{
+	display: flex;
+}
+.bx1,.bx2,.bx3{
+	
+	/*justify-content: space-between;
+*/	margin-top: 20%;
+	margin-left: 5%;
+	height: 40vh;
+	width: 20%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 70px;
+	color: darkcyan;
+	font-family: sans-serif;
+	font-weight: bold;
+	background-color: white;
+}
+.dots{
+	color: white;
+	margin-top: 20%;
+	margin-left:0%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width: 10%;
+	font-size: 100px;
+}
